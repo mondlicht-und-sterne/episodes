@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="about_description">Verfolge, welche Episoden Deiner Lieblingsfernsehsendungen Du gesehen habst.</string>
+  <string name="about_license">Episodes ist freie Software, die unter der GNU GPL (Version 3 oder später) lizenziert ist. Bitte melde Fehler, schreibe Code oder tu alles, was Du kannst, um zu helfen!</string>
+  <string name="about_title">Über</string>
+  <string name="about_tvdb">Informationen zu Fernsehsendungen werden von TheTVDB.com bereitgestellt und stehen unter der Creative Commons Lizenz. Bitte steuere Informationen zu TheTVDB.com bei, wenn Du kannst.</string>
+  <string name="about_website" translatable="false">http://github.com/red-coracle/episodes</string>
+  <string name="app_name" translatable="false">Episoden</string>
+  <string name="adding_show">Hinzufügen von %s zur Bibliothek</string>
+  <string name="back_up_error_message">Fehler beim Sichern der Bibliothek</string>
+  <string name="back_up_success_message">Sicherung abgeschlossen: \'%s\'</string>
+  <string name="error_adding_show">Fehler beim Hinzufügen von %s zur Bibliothek</string>
+  <string name="first_aired">Erstausstrahlung: %s</string>
+  <string name="menu_about">Über</string>
+  <string name="menu_add_show_search_hint">Suche nach neuer Sendung</string>
+  <string name="menu_add_new_show">Neue Sendung zur Bibliothek hinzufügen</string>
+  <string name="menu_add_show">Sendung zur Bibliothek hinzufügen</string>
+  <string name="menu_back_up">Bibliothek sichern</string>
+  <string name="menu_delete_show">Sendung löschen</string>
+  <string name="menu_filter_shows_list">Filter Anzeigen</string>
+  <string name="menu_filter_all">Alles</string>
+  <string name="menu_filter_starred">Mit Sternchen</string>
+  <string name="menu_filter_archived">Archiviert</string>
+  <string name="menu_filter_uncompleted">In Bearbeitung</string>
+  <string name="menu_filter_upcoming">Demnächst</string>
+  <string name="menu_mark_season_not_watched">Staffel als nicht gesehen markieren</string>
+  <string name="menu_mark_season_watched">Staffel als gesehen markieren</string>
+  <string name="menu_mark_show_not_watched">Sendung als nicht gesehen markieren</string>
+  <string name="menu_mark_show_watched">Sendung als gesehen markieren</string>
+  <string name="menu_refresh_all_shows">Alle Sendungen aktualisieren</string>
+  <string name="menu_refresh_show">Sendung aktualisieren</string>
+  <string name="menu_restore">Sicherung wiederherstellen</string>
+  <string name="menu_settings">Einstellungen</string>
+  <string name="menu_star_show">Star Sendung</string>
+  <string name="menu_unstar_show">Unstar zeigen</string>
+  <string name="menu_archive_show">Archive zeigen</string>
+  <string name="menu_unarchive_show">Unarchive zeigen</string>
+  <string name="pref_auto_refresh_period_title">Zeitraum</string>
+  <string name="pref_auto_refresh_enabled_title">Auto-refresh aktiviert</string>
+  <string name="pref_auto_refresh_wifi_only_title">Nur bei nicht gemessenen Verbindungen</string>
+  <string name="pref_language_title">Sprache</string>
+  <string name="pref_reverse_sort_order">Umgekehrte Reihenfolge</string>
+  <string name="pref_reverse_sort_order_summary">Neueste Staffel zuerst anzeigen</string>
+  <string name="restore_dialog_no_backups_message">Keine Sicherungen im Ordner gefunden \'%s\'.</string>
+  <string name="restore_dialog_title">Wiederherstellen aus Sicherung</string>
+  <string name="restore_error_message">Fehler beim Wiederherstellen der Bibliothek</string>
+  <string name="restore_success_message">Bibliothek wiederhergestellt</string>
+  <string name="season_episode_prefix">"%1$02dx%2$02d - "</string>
+  <string name="season_name">Staffel %d</string>
+  <string name="season_name_specials">Besonderheiten</string>
+  <string name="settings_title">Einstellungen</string>
+  <string name="show_added">%s zur Bibliothek hinzugefügt</string>
+  <string name="show_already_added">%s ist bereits in der Bibliothek</string>
+  <string name="show_tab_episodes">Episoden</string>
+  <string name="show_tab_next">Nächste</string>
+  <string name="show_tab_notes">Hinweise</string>
+  <string name="show_tab_overview">Übersicht</string>
+  <string name="upcoming_count">(+ %d demnächst)</string>
+  <string name="watched_check_box">Gesehen</string>
+  <string name="watched_count">Gesehene %1$d von %2$d Episoden</string>
+  <string name="channel_name">Sync anzeigen</string>
+  <string name="channel_description">Benachrichtigung beim Synchronisieren von Sendungen</string>
+  <string name="pref_auto_refresh_category">Serie automatisch aktualisieren</string>
+  <string name="pref_interface_category">Oberfläche</string>
+</resources>
